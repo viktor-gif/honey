@@ -608,4 +608,11 @@ img {
     padding: 30px 0 10px 0;
   }
 }
+@media screen and (max-width: 409px) {
+  .tel__number {
+    position: relative;
+    top: 0;
+    left: 18px;
+  }
+}
 /* media end */
